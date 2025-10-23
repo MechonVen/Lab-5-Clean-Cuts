@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Lab5_Clean_Cuts.h"
+#include "BST.h"
 
 int main() {
     //Create an object of the BST class
