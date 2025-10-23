@@ -1,5 +1,5 @@
-#ifndef LAB5_CLEAN_CUTS_H
-#define LAB5_CLEAN_CUTS_H
+#ifndef BST_H
+#define BST_H
 
 //Class for the nodes used in the BST implementation
 class BSTNode {
@@ -45,5 +45,4 @@ public:
 
 //This needs to be below every class and class function for the implementation
 //file to recognize
-#endif //LAB5_CLEAN_CUTS_H
-
+#endif //BST_H
