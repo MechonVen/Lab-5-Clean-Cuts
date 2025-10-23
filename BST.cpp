@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Lab5_Clean_Cuts.h"
+#include "BST.h"
 
 BSTNode::BSTNode(int nodeKey, BSTNode* leftChild, BSTNode* rightChild) { //Basic constructor
     key = nodeKey;
