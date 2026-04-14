@@ -1,4 +1,4 @@
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/{MechonVen}/{Lab-5-Clean-Cuts}/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/{MechonVen}/{Lab-5-Clean-Cuts})
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/MechonVen/Lab-5-Clean-Cuts/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/MechonVen/Lab-5-Clean-Cuts)
 
 # Lab-5-Clean-Cuts
 Classic BST with Full Traversals
